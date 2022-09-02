@@ -42,12 +42,14 @@ languages:
         imageWidth: 150
         imageHeight: 150
         buttons:
-          - name: 📽️影视
+          - name: 📽️ 影视
             url: posts/video
-          - name: 📕阅读
+          - name: 📕 阅读
             url: posts/read
-          - name: 🍳烹饪
-            url: posts/cook/
+          - name: 🍳 烹饪
+            url: posts/cook
+          - name: 🤔 杂思
+            url: posts/think
       menu:
         main:
           - identifier: search
