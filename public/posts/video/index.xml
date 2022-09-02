@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>📽 影视 on Bmms Blog</title>
+    <link>http://www.bmms.me/posts/video/</link>
+    <description>Recent content in 📽 影视 on Bmms Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 04 Aug 2022 15:10:40 +0800</lastBuildDate><atom:link href="http://www.bmms.me/posts/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>视频调色中的几种示波器及其作用</title>
+      <link>http://www.bmms.me/posts/video/video-coloring-in-several-oscilloscopes-and-their-role/</link>
+      <pubDate>Thu, 04 Aug 2022 15:10:40 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/video/video-coloring-in-several-oscilloscopes-and-their-role/</guid>
+      <description>影像示波器可以帮助我们更好的把控和分析图像</description>
+    </item>
+    
+  </channel>
+</rss>
