@@ -44,7 +44,7 @@ languages:
         imageWidth: 150
         imageHeight: 150
         buttons:
-          - name: 🧱 建站
+          - name: 🧱 测试
             url: posts/blog
           - name: 👨🏻‍💻 技术
             url: posts/tech
