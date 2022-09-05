@@ -2,7 +2,7 @@
 title: "豉油鸡" #标题
 date: 2022-08-25T16:00:00+08:00 #创建时间
 lastmod: 2022-08-30T16:15:00+08:00 #更新时间
-author: ["zhangxiaoji"] #作者
+author: ["xiaoji"] #作者
 categories:
 - 烹饪
 tags:

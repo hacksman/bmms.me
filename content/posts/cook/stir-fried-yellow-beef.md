@@ -2,7 +2,7 @@
 title: "小炒黄牛肉" #标题
 date: 2022-07-30T18:46:34+08:00 #创建时间
 lastmod: 2022-08-30T18:46:34+08:00 #更新时间
-author: ["zhangxiaoji"] #作者
+author: ["xiaoji"] #作者
 categories:
 - 烹饪
 tags:

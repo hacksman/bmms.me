@@ -2,7 +2,7 @@
 title: "视频调色中的几种示波器及其作用" #标题
 date: 2022-08-04T15:10:40+08:00 #创建时间
 lastmod: 2022-08-30T15:10:40+08:00 #更新时间
-author: ["zhangxiaoji"] #作者
+author: ["xiaoji"] #作者
 categories:
 - 影视
 tags:
