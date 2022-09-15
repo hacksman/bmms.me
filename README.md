@@ -1,2 +1,2 @@
-# bmms.me
-bmms.me
+# [bmms.me](https://www.bmms.me)
+
