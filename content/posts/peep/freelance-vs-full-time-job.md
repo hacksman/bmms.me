@@ -1,7 +1,7 @@
 ---
 title: "见闻第 3 期：自由职业 vs 全职工作"
 date: 2022-09-20T11:46:31+08:00
-lastmod: 2022-09-20T11:46:31+08:00
+lastmod: 2022-09-26T11:46:31+08:00
 author: ["xiaoji"]
 keywords: 
 - 
@@ -10,7 +10,7 @@ categories:
 tags: 
 - 自由职业
 - 全职工作
-- 小消息
+- 简单报
 - 新玩意
 - 工作
 - Youtube
@@ -57,7 +57,7 @@ hackers news 最近有一篇热帖引发热议。你应该为自己工作还是�
 我现在在一家大公司工作，我非常享受这种工作。强大的工会保证了我的薪酬比较丰厚、另外还提供了平衡家庭和工作的环境。最开心的是，如果我的孩子需要照顾，我可以获得到一个休息日（悄咪咪告诉你：带薪带孩~）。我很喜欢这里的同事。当我还是自由职业的时候，我偶尔有甲方或者一些合作的人一起做项目，但这和长期一起共事的同事关系，还是有些不同的。
 最重要的，和其他人说的一样，做你喜欢的事情！@rawfan
 
-## 小消息
+## 简单报
 
 ### [世界上的树木比35年前要多](https://www.goodgoodgood.co/articles/the-world-has-more-trees-than-it-did-35-years-ago)
 
@@ -125,7 +125,7 @@ adept 是一个机器学习的实验性产品，创作性地将人和机器交�
 
 <br/>
 
-[Contentedge 智能写作辅助器](https://www.contentedge.com/)
+### [Contentedge 智能写作辅助器](https://www.contentedge.com/)
 
 ![contentdege 官网示意图](0af8e879.png)
 
