@@ -1,14 +1,19 @@
 ---
 title: "ER 模型入门教程"
 date: 2022-11-10T10:19:26+08:00
-lastmod: 2022-11-10T10:19:26+08:00
+lastmod: 2022-11-10T11:09:26+08:00
 author: ["xiaoji"]
 keywords: 
 - 
 categories: 
-- 
+- 小册子
 tags: 
-- 
+- ER图
+- 实体
+- 关系
+- UML
+- ERM
+- ERD
 description: ""
 weight:
 slug: ""
