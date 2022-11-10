@@ -50,6 +50,8 @@ languages:
             url: posts/cook
           - name: 🤔 杂思
             url: posts/think
+          - name: 📝 小册子
+            url: posts/booklet
       menu:
         main:
           - identifier: search
