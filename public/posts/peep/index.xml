@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>👁 见闻 on Bmms Blog</title>
+    <link>http://www.bmms.me/posts/peep/</link>
+    <description>Recent content in 👁 见闻 on Bmms Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 24 Oct 2022 17:24:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/posts/peep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新玩意第 1 期</title>
+      <link>http://www.bmms.me/posts/peep/the-first-issue-of-new-gadgets/</link>
+      <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/the-first-issue-of-new-gadgets/</guid>
+      <description>How flow ![How flow 官网示意图](How flow 官网示意图.png) 通过简单的屏幕录制即可轻松创建完整的工作流，对于新员工入职引导手册，创建用户操作指南，以及</description>
+    </item>
+    
+    <item>
+      <title>见闻第 5 期：例行公事比灵感乍现更重要？</title>
+      <link>http://www.bmms.me/posts/peep/why-do-your-routine-tasks-get-priority-over-your-creative-ideas/</link>
+      <pubDate>Sat, 08 Oct 2022 14:00:40 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/why-do-your-routine-tasks-get-priority-over-your-creative-ideas/</guid>
+      <description>例行公事比灵感乍现更重要？ 诗人玛丽-奥利弗曾经写道：&amp;ldquo;世界上最遗憾的人是那些感受到创造性工作召唤的人，他们感受到自己的创造性力量</description>
+    </item>
+    
+    <item>
+      <title>见闻第 4 期：我们浪费了多少时间在等待网页加载上？</title>
+      <link>http://www.bmms.me/posts/peep/how-much-time-do-we-waste-waiting-for-websites-to-load/</link>
+      <pubDate>Mon, 26 Sep 2022 18:07:12 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/how-much-time-do-we-waste-waiting-for-websites-to-load/</guid>
+      <description>我们浪费了多少时间在等待网页加载上？ 作者通过另外一篇博客了解到，我们的网页加载速度并没有比几年前更快，于是做了一些列的调研，结果就是确实如此</description>
+    </item>
+    
+    <item>
+      <title>见闻第 3 期：自由职业 vs 全职工作</title>
+      <link>http://www.bmms.me/posts/peep/freelance-vs-full-time-job/</link>
+      <pubDate>Tue, 20 Sep 2022 11:46:31 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/freelance-vs-full-time-job/</guid>
+      <description>自由职业 vs 全职工作 hackers news 最近有一篇热帖引发热议。你应该为自己工作还是做一份全职工作？觉得其中几个回答还蛮有启发性，转述出来给你看看。 你总是在为</description>
+    </item>
+    
+    <item>
+      <title>见闻第 2 期：生产力色情</title>
+      <link>http://www.bmms.me/posts/peep/productivity-porn/</link>
+      <pubDate>Tue, 13 Sep 2022 14:18:21 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/productivity-porn/</guid>
+      <description>生产力色情 Caleb Schoepp 在他的个人博客中，以”生产力色情”为题，讲述了当今社交媒体中生产力色情的泛滥以及对个人造成的负面影响，看完满有启发的，我摘录其</description>
+    </item>
+    
+    <item>
+      <title>见闻第 1 期：我的数据值多少钱？</title>
+      <link>http://www.bmms.me/posts/peep/how-much-is-my-data-worth/</link>
+      <pubDate>Mon, 05 Sep 2022 10:56:49 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/how-much-is-my-data-worth/</guid>
+      <description>近未来 我的数据值多少钱？ surf 是一家加拿大公司开发的浏览器插件，它希望通过绕过谷歌等公司，直接将用户的浏览行为数据脱敏后出售给品牌方，然后将所得</description>
+    </item>
+    
+  </channel>
+</rss>

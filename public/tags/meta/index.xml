@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meta on Bmms Blog</title>
+    <link>http://www.bmms.me/tags/meta/</link>
+    <description>Recent content in Meta on Bmms Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 26 Sep 2022 18:07:12 +0800</lastBuildDate><atom:link href="http://www.bmms.me/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>见闻第 4 期：我们浪费了多少时间在等待网页加载上？</title>
+      <link>http://www.bmms.me/posts/peep/how-much-time-do-we-waste-waiting-for-websites-to-load/</link>
+      <pubDate>Mon, 26 Sep 2022 18:07:12 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/how-much-time-do-we-waste-waiting-for-websites-to-load/</guid>
+      <description>我们浪费了多少时间在等待网页加载上？ 作者通过另外一篇博客了解到，我们的网页加载速度并没有比几年前更快，于是做了一些列的调研，结果就是确实如此</description>
+    </item>
+    
+  </channel>
+</rss>

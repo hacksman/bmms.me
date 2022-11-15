@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>📝 小册子 on Bmms Blog</title>
+    <link>http://www.bmms.me/posts/booklet/</link>
+    <description>Recent content in 📝 小册子 on Bmms Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 10 Nov 2022 10:19:26 +0800</lastBuildDate><atom:link href="http://www.bmms.me/posts/booklet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ER 模型入门教程</title>
+      <link>http://www.bmms.me/posts/booklet/getting-started-with-entity-relationship-model/</link>
+      <pubDate>Thu, 10 Nov 2022 10:19:26 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/booklet/getting-started-with-entity-relationship-model/</guid>
+      <description>ER 模型（实体关系模型），是 Entity-relationship model 的缩写，最是由美籍华人陈品山于 1976 年 3 月在 ACM Transactions on Database Systems 发表论文《The Entity-Relationship Model&amp;ndash;Toward a Unified View of Data》被人熟知。因为它既能够</description>
+    </item>
+    
+  </channel>
+</rss>

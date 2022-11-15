@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>写作 on Bmms Blog</title>
+    <link>http://www.bmms.me/tags/%E5%86%99%E4%BD%9C/</link>
+    <description>Recent content in 写作 on Bmms Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 24 Oct 2022 17:24:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新玩意第 1 期</title>
+      <link>http://www.bmms.me/posts/peep/the-first-issue-of-new-gadgets/</link>
+      <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/the-first-issue-of-new-gadgets/</guid>
+      <description>How flow ![How flow 官网示意图](How flow 官网示意图.png) 通过简单的屏幕录制即可轻松创建完整的工作流，对于新员工入职引导手册，创建用户操作指南，以及</description>
+    </item>
+    
+    <item>
+      <title>见闻第 2 期：生产力色情</title>
+      <link>http://www.bmms.me/posts/peep/productivity-porn/</link>
+      <pubDate>Tue, 13 Sep 2022 14:18:21 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/productivity-porn/</guid>
+      <description>生产力色情 Caleb Schoepp 在他的个人博客中，以”生产力色情”为题，讲述了当今社交媒体中生产力色情的泛滥以及对个人造成的负面影响，看完满有启发的，我摘录其</description>
+    </item>
+    
+    <item>
+      <title>见闻第 1 期：我的数据值多少钱？</title>
+      <link>http://www.bmms.me/posts/peep/how-much-is-my-data-worth/</link>
+      <pubDate>Mon, 05 Sep 2022 10:56:49 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/how-much-is-my-data-worth/</guid>
+      <description>近未来 我的数据值多少钱？ surf 是一家加拿大公司开发的浏览器插件，它希望通过绕过谷歌等公司，直接将用户的浏览行为数据脱敏后出售给品牌方，然后将所得</description>
+    </item>
+    
+  </channel>
+</rss>
