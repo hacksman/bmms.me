@@ -2,11 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.bmms.me/tags/ai/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/app/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
     <loc>http://www.bmms.me/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/categories/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/icon/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/rpa/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/stable-diffusion/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E4%BD%8E%E4%BB%A3%E7%A0%81/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E5%9B%BE%E6%A0%87/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E5%9B%BE%E9%9B%86/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9C/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E5%AF%BC%E8%88%AA/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/posts/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/posts/peep/the-second-issue-of-new-gadgets/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E7%81%B5%E6%84%9F/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/categories/%E8%A7%81%E9%97%BB/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/tags/%E9%BC%A0%E6%A0%87/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.bmms.me/posts/peep/</loc>
+    <lastmod>2022-11-16T13:38:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/posts/booklet/getting-started-with-entity-relationship-model/</loc>
     <lastmod>2022-11-10T11:09:26+08:00</lastmod>
@@ -20,9 +95,6 @@
     <loc>http://www.bmms.me/tags/er%E5%9B%BE/</loc>
     <lastmod>2022-11-10T11:09:26+08:00</lastmod>
   </url><url>
-    <loc>http://www.bmms.me/tags/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
     <loc>http://www.bmms.me/tags/uml/</loc>
     <lastmod>2022-11-10T11:09:26+08:00</lastmod>
   </url><url>
@@ -35,113 +107,44 @@
     <loc>http://www.bmms.me/categories/%E5%B0%8F%E5%86%8C%E5%AD%90/</loc>
     <lastmod>2022-11-10T11:09:26+08:00</lastmod>
   </url><url>
-    <loc>http://www.bmms.me/posts/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
     <loc>http://www.bmms.me/posts/booklet/</loc>
     <lastmod>2022-11-10T11:09:26+08:00</lastmod>
   </url><url>
-    <loc>http://www.bmms.me/tags/ai/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
     <loc>http://www.bmms.me/tags/api/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/app/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/emoji/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/icon/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/json/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/rpa/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/stable-diffusion/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E4%BA%92%E5%8A%A8/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E4%BA%BA%E4%BD%93/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E4%BD%8E%E4%BB%A3%E7%A0%81/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E5%9B%BE%E6%A0%87/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E5%9B%BE%E9%9B%86/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9C/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E5%AF%BC%E8%88%AA/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E5%BC%95%E5%AF%BC/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/posts/peep/the-first-issue-of-new-gadgets/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E6%B5%81%E7%A8%8B/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E7%81%B5%E6%84%9F/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E8%A1%A8%E6%83%85/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/categories/%E8%A7%81%E9%97%BB/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E8%AE%BE%E8%AE%A1/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/%E8%BF%90%E5%8A%A8/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/tags/%E9%BC%A0%E6%A0%87/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.bmms.me/posts/peep/</loc>
-    <lastmod>2022-11-11T18:51:00+08:00</lastmod>
+    <lastmod>2022-11-15T16:23:00+08:00</lastmod>
   </url><url>
     <loc>http://www.bmms.me/tags/google/</loc>
     <lastmod>2022-10-08T14:00:40+08:00</lastmod>

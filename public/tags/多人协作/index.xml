@@ -6,14 +6,23 @@
     <description>Recent content in 多人协作 on Bmms Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 24 Oct 2022 17:24:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/tags/%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 16:08:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/tags/%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新玩意第 2 期</title>
+      <link>http://www.bmms.me/posts/peep/the-second-issue-of-new-gadgets/</link>
+      <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/the-second-issue-of-new-gadgets/</guid>
+      <description>thestocks 非常全面的聚合导航站，收集了生活、社交媒体、设计开发等等各种类型的网站，找不到趁手工具的小伙伴，可以在这上面看看。 replit 初学编程的小伙伴总是要</description>
+    </item>
+    
     <item>
       <title>新玩意第 1 期</title>
       <link>http://www.bmms.me/posts/peep/the-first-issue-of-new-gadgets/</link>
       <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
       
       <guid>http://www.bmms.me/posts/peep/the-first-issue-of-new-gadgets/</guid>
-      <description>How flow ![How flow 官网示意图](How flow 官网示意图.png) 通过简单的屏幕录制即可轻松创建完整的工作流，对于新员工入职引导手册，创建用户操作指南，以及</description>
+      <description>How flow 通过简单的屏幕录制即可轻松创建完整的工作流，对于新员工入职引导手册，创建用户操作指南，以及排查用户遇到的问题，非常方便 Json Crack 为 json 数据提供简</description>
     </item>
     
   </channel>

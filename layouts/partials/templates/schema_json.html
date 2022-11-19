@@ -34,7 +34,7 @@
     {{- $bc_pg := $.Site.GetPage ($scratch.Get "path") -}}
 
     {{- if (and ($bc_pg) (gt (len . ) 0))}}
-    {{- if (and $index)}}, {{end }}
+    {{- if (gt $index)}}, {{end }}
     {
       "@type": "ListItem",
       "position": {{ add 1 $index  }},
