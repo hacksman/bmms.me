@@ -6,13 +6,148 @@
     <description>Recent content in Tags on Bmms Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Nov 2022 16:08:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 18:36:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>http://www.bmms.me/tags/ai/</link>
-      <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
       
       <guid>http://www.bmms.me/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>http://www.bmms.me/tags/emoji/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ffmpeg</title>
+      <link>http://www.bmms.me/tags/ffmpeg/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/ffmpeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>office</title>
+      <link>http://www.bmms.me/tags/office/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable Diffusion</title>
+      <link>http://www.bmms.me/tags/stable-diffusion/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/stable-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://www.bmms.me/tags/windows/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>互动</title>
+      <link>http://www.bmms.me/tags/%E4%BA%92%E5%8A%A8/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E4%BA%92%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>剪辑</title>
+      <link>http://www.bmms.me/tags/%E5%89%AA%E8%BE%91/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E5%89%AA%E8%BE%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>可视化</title>
+      <link>http://www.bmms.me/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>壁纸</title>
+      <link>http://www.bmms.me/tags/%E5%A3%81%E7%BA%B8/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E5%A3%81%E7%BA%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>影视</title>
+      <link>http://www.bmms.me/tags/%E5%BD%B1%E8%A7%86/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E5%BD%B1%E8%A7%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>操作系统</title>
+      <link>http://www.bmms.me/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教程</title>
+      <link>http://www.bmms.me/tags/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>绘画</title>
+      <link>http://www.bmms.me/tags/%E7%BB%98%E7%94%BB/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E7%BB%98%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自动化</title>
+      <link>http://www.bmms.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>表情</title>
+      <link>http://www.bmms.me/tags/%E8%A1%A8%E6%83%85/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/tags/%E8%A1%A8%E6%83%85/</guid>
       <description></description>
     </item>
     
@@ -44,15 +179,6 @@
     </item>
     
     <item>
-      <title>Stable Diffusion</title>
-      <link>http://www.bmms.me/tags/stable-diffusion/</link>
-      <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
-      
-      <guid>http://www.bmms.me/tags/stable-diffusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>低代码</title>
       <link>http://www.bmms.me/tags/%E4%BD%8E%E4%BB%A3%E7%A0%81/</link>
       <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
@@ -67,15 +193,6 @@
       <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
       
       <guid>http://www.bmms.me/tags/%E5%86%99%E4%BD%9C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>可视化</title>
-      <link>http://www.bmms.me/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
-      <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
-      
-      <guid>http://www.bmms.me/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
       <description></description>
     </item>
     
@@ -161,15 +278,6 @@
     </item>
     
     <item>
-      <title>自动化</title>
-      <link>http://www.bmms.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
-      <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
-      
-      <guid>http://www.bmms.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>设计</title>
       <link>http://www.bmms.me/tags/%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Tue, 15 Nov 2022 16:08:00 +0800</pubDate>
@@ -251,29 +359,11 @@
     </item>
     
     <item>
-      <title>emoji</title>
-      <link>http://www.bmms.me/tags/emoji/</link>
-      <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
-      
-      <guid>http://www.bmms.me/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Json</title>
       <link>http://www.bmms.me/tags/json/</link>
       <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
       
       <guid>http://www.bmms.me/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>互动</title>
-      <link>http://www.bmms.me/tags/%E4%BA%92%E5%8A%A8/</link>
-      <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
-      
-      <guid>http://www.bmms.me/tags/%E4%BA%92%E5%8A%A8/</guid>
       <description></description>
     </item>
     
@@ -296,15 +386,6 @@
     </item>
     
     <item>
-      <title>教程</title>
-      <link>http://www.bmms.me/tags/%E6%95%99%E7%A8%8B/</link>
-      <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
-      
-      <guid>http://www.bmms.me/tags/%E6%95%99%E7%A8%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>流程</title>
       <link>http://www.bmms.me/tags/%E6%B5%81%E7%A8%8B/</link>
       <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
@@ -319,15 +400,6 @@
       <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
       
       <guid>http://www.bmms.me/tags/%E6%B5%8B%E8%AF%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>表情</title>
-      <link>http://www.bmms.me/tags/%E8%A1%A8%E6%83%85/</link>
-      <pubDate>Mon, 24 Oct 2022 17:24:00 +0800</pubDate>
-      
-      <guid>http://www.bmms.me/tags/%E8%A1%A8%E6%83%85/</guid>
       <description></description>
     </item>
     

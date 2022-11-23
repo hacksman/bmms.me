@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>影视 on Bmms Blog</title>
+    <link>http://www.bmms.me/tags/%E5%BD%B1%E8%A7%86/</link>
+    <description>Recent content in 影视 on Bmms Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 18 Nov 2022 18:36:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/tags/%E5%BD%B1%E8%A7%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新玩意第 3 期</title>
+      <link>http://www.bmms.me/posts/peep/the-third-issue-of-new-gadgets/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/the-third-issue-of-new-gadgets/</guid>
+      <description>ffmpeg gui ffmpeg 处理视频最常用的开源软件，功能非常强大，但功能强大的同时就带来了一堆参数，于是 modfy 团队打造了一款比较友好的 ffmpeg gui 工具，可视化的方式去编辑视</description>
+    </item>
+    
+  </channel>
+</rss>

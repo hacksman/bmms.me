@@ -6,7 +6,16 @@
     <description>Recent content in 👁 见闻 on Bmms Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Nov 2022 16:08:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/posts/peep/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 18:36:00 +0800</lastBuildDate><atom:link href="http://www.bmms.me/posts/peep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新玩意第 3 期</title>
+      <link>http://www.bmms.me/posts/peep/the-third-issue-of-new-gadgets/</link>
+      <pubDate>Fri, 18 Nov 2022 18:36:00 +0800</pubDate>
+      
+      <guid>http://www.bmms.me/posts/peep/the-third-issue-of-new-gadgets/</guid>
+      <description>ffmpeg gui ffmpeg 处理视频最常用的开源软件，功能非常强大，但功能强大的同时就带来了一堆参数，于是 modfy 团队打造了一款比较友好的 ffmpeg gui 工具，可视化的方式去编辑视</description>
+    </item>
+    
     <item>
       <title>新玩意第 2 期</title>
       <link>http://www.bmms.me/posts/peep/the-second-issue-of-new-gadgets/</link>
