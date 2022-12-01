@@ -87,4 +87,5 @@ cover:
 ![多对多关系，两端都可选示意图](%E5%A4%9A%E5%AF%B9%E5%A4%9A%E5%85%B3%E7%B3%BB%EF%BC%8C%E4%B8%A4%E7%AB%AF%E9%83%BD%E5%8F%AF%E9%80%89%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
 ## 参考资料
+[Chapter 6. Entity-Relationship Modelling](https://www.cs.uct.ac.za/mit_notes/database/htmls/chp06.html#objectives)
 
